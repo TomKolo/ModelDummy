@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ModelPredict", "ModelPredict\ModelPredict.pyproj", "{B77EE159-1C61-4D60-B2BB-2DD5C0CFE433}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B77EE159-1C61-4D60-B2BB-2DD5C0CFE433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B77EE159-1C61-4D60-B2BB-2DD5C0CFE433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28348A04-FF5F-459D-9D65-968A50BD4D42}
+	EndGlobalSection
+EndGlobal
